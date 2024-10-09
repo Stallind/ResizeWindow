@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResizeWindow": {
+      "commandName": "Project",
+      "commandLineArgs": "-8 3 3460 1400 \"KONSULT-PC11 - Desktop Viewer\""
+    }
+  }
+}
